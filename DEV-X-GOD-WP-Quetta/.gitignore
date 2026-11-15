@@ -1,0 +1,3 @@
+# Local browser-profile data and packaging artifacts
+.DS_Store
+*.crx
